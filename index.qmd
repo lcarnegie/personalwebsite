@@ -1,8 +1,8 @@
 ---
-title: "personalwebsite"
+title: "Luca Carnegie"
 ---
 
-This is a Quarto website.
+I'm a Bachelor of Information (BI) student at the University of Toronto.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
